@@ -39,8 +39,7 @@ ConsoleApp) and some experience in **SPA** (React, Angular). I also work with **
 <p>
     <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-d4d9d4?style=flat&logo=MongoDB&logoColor=0e910c
-"></a>
+    <a href="#"><img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-d4d9d4?style=flat&logo=MongoDB&logoColor=0e910c"></a>
 </p>
 
 ### 💻 Software and tools

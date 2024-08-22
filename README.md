@@ -28,9 +28,9 @@ ConsoleApp) and some experience in **SPA** (React, Angular). I also work with **
     <a href="#"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-7719AA?style=flat&logo=jQuery&logoColor=white"/></a>
-    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express--white?style=flat"/></a>
-    <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS--black?style=flat&logo=https%3A%2F%2Ficon-icons.com%2Ficons2%2F2148%2FPNG%2F512%2Fnestjs_icon_132165.png&logoColor=black&logoSize=100px&labelColor=grey"/></a>
+    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-68a063?style=flat&logo=Node.js&logoColor=white"/></a>
+    <a href="#"><img alt="Express" src="https://img.shields.io/badge/ExpressJS-545353?style=flat&logo=Express&logoColor=white"/></a>
+    <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-050505?style=flat&logo=NestJS&logoColor=red"/></a>
     <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"/></a>
 </p>
 
@@ -39,7 +39,8 @@ ConsoleApp) and some experience in **SPA** (React, Angular). I also work with **
 <p>
     <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?style=flat&logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-d4d9d4?style=flat&logo=MongoDB&logoColor=0e910c
+"></a>
 </p>
 
 ### 💻 Software and tools

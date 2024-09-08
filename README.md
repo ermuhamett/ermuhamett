@@ -67,9 +67,7 @@ ConsoleApp) and some experience in **SPA** (React, NextJs). I also work with **d
 
 <details>
 <summary>📈 Recent GitHub Activity</summary>
-
-![Alexander Kozhanov's GitHub Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ermuhamett&theme=dracula)
-
+[![Ermuhamet Bekbosynov GitHub Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
 <details>
@@ -77,13 +75,6 @@ ConsoleApp) and some experience in **SPA** (React, NextJs). I also work with **d
 <p>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ermuhamett&date_format=n%2Fj%5B%2FY%5D&theme=react">
 </p>
-</details>
-
-<details>
-<summary>⌛ Wakatime Stats</summary>
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akozhanov&layout=compact&theme=react)](https://wakatime.com/akozhanov)
-
 </details>
 
 <details>

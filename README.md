@@ -5,9 +5,9 @@
 ### 👨‍💻 About me
 
 😉 I'm a **full stack developer** specializing in .NET (C#, ASP.NET Core), NodeJS(ExpressJS/NestJS), MS SQL Server, and frontend (
-React, Angular).  
+React).  
 🔭 I have experience in developing **web applications** (ASP.NET Core MVC, Web API), **desktop applications** (WinForms,
-ConsoleApp) and some experience in **SPA** (React, Angular). I also work with **databases** (MS SQL, Oracle).  
+ConsoleApp) and some experience in **SPA** (React, NextJs). I also work with **databases** (MS SQL, Oracle, MongoDB).  
 📣 Also interested in new products in the world of **.NET development** and **IT** in general.
 
 ### 🛠 Programming languages
@@ -27,6 +27,7 @@ ConsoleApp) and some experience in **SPA** (React, Angular). I also work with **
 <p>
     <a href="#"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextdotjs&logoColor=%23000000&color=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-68a063?style=flat&logo=Node.js&logoColor=white"/></a>
     <a href="#"><img alt="Express" src="https://img.shields.io/badge/ExpressJS-545353?style=flat&logo=Express&logoColor=white"/></a>

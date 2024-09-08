@@ -68,7 +68,7 @@ ConsoleApp) and some experience in **SPA** (React, NextJs). I also work with **d
 <details>
 <summary>📈 Recent GitHub Activity</summary>
 
-![Ermuhamet Bekbosynov GitHub Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermuhamett&theme=dracula)
+![Ermuhamet Bekbosynov GitHub Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ermuhamett&theme=react-dark)
 </details>
 
 
